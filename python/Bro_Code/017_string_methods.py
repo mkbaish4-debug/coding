@@ -8,7 +8,7 @@ phone_num = input("Enter your phone number: ")
 # result = name.lower()
 # result = name.isdigit()
 # result = name.isalpha()
-# result = name.count("a")
+# result = name.count(" ")
 result = phone_num.replace("-", " ")
 print(result)
 # use help(str) for a comprehensive list
