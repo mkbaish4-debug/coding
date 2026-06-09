@@ -1,0 +1,7 @@
+# Video files - too large for GitHub
+*.mp4
+# Compiled executables
+*.exe
+# VS Code user settings
+.vscode/launch.json
+.vscode/settings.json
