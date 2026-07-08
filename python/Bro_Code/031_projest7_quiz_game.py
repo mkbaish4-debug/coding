@@ -9,13 +9,13 @@ score = 0
 for x in range(0,len(questions)):
     print(questions[x])
     print(options[x])
-    guess = input("Your Choice(1-4): ")
-    while not guess.isdigit():
-       guess = input("Incorrect input! please choose(1-4): ")
-       if guess.isdigit():
+    guess = int(input("Your Choice(1-4): "))
+    while not guess in (1,2,3,4):
+       guess = int(input("Incorrect input! please choose(1-4): "))
+       if guess in (1,2,3,4):
            break
     if int(guess) == answers[x]:
         score += 1
 print(f"Your final score is: {score}")
-        
+
 
