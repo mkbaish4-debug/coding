@@ -4,10 +4,10 @@
 
 
 
-# for x in range(3):
-#     for y in range(1, 11):
-#         print(y, end = "")
-#     print()    
+# for x in range(2,5):
+#     for y in range(2, 10):
+#         print(f"{x}{y}", end = "")
+#     print()
 
 rows = int(input("Enter the number of rows: "))
 columns = int(input("Enter the number of columns: "))

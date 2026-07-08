@@ -1,7 +1,7 @@
 # collection = single "variable" used to store multiple variables.
 #     List   = [] Ordered and changable. duplicates ok.
-#      set   = {} unordered and immutable. add or remove0 ok. No duplicates.
-#     tuples = () ordered and unchangable. duplicates ok. FASTER.  
+#      set   = {} unordered and immutable. add or remove ok. No duplicates.
+#     tuples = () ordered and unchangable. duplicates ok. FASTER.
 
 
 # print(len(fruits))
@@ -11,7 +11,7 @@
 # These  are applicable to all.
 
 #              List
-fruits = ["apple", "pineapple", "mango", "banana"]
+# fruits = ["apple", "pineapple", "mango", "banana"]
 # print(fruits[0])
 # fruits.append("apple")
 # fruits.remove("apple")
@@ -32,7 +32,7 @@ fruits = ["apple", "pineapple", "mango", "banana"]
 # fruits.pop()
 
 #           Tuples
-# fruits = ("apple", "banana", "pineapple", "mango")
+fruits = ("apple", "banana", "pineapple", "mango")
 # print(fruits.index("mango"))
 # print(fruits.count("mango"))
 

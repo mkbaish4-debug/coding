@@ -14,6 +14,6 @@ import math
 # result = math.e
 # result = math.sqrt(x)
 # result = math.ceil(x)
-result = math.floor(x)
+result = math.floor(y)
 print(result)
 

@@ -1,8 +1,8 @@
-questions = (("How many planets are there in the solar system?"), 
-             (("What is 4+7?")), 
+questions = (("How many planets are there in the solar system?"),
+             (("What is 4+7?")),
              ("What is the name of US president?"))
-options =   (("1. 7, 2. 8, 3. 9, 4. 10"), 
-             ("1. 10, 2. 9, 3. 12, 4. 11"), 
+options =   (("1. 7, 2. 8, 3. 9, 4. 10"),
+             ("1. 10, 2. 9, 3. 12, 4. 11"),
              ("1. Putin, 2. Trump, 3. Epstien, 4. Kim jong un"))
 answers = [2,4,2]
 score = 0
@@ -19,4 +19,3 @@ for x in range(0,len(questions)):
 print(f"Your final score is: {score}")
         
 
-            

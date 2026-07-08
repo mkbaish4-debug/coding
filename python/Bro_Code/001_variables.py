@@ -1,4 +1,4 @@
-name = "Mayank"
+name = "Mayank Singh"
 age = 19
 height = 170
 weight = 60.00
