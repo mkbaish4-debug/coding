@@ -15,7 +15,7 @@ while True:
         price = float(price)
         prices.append(price)
 
-       
+
 
 print("----Shoping Cart----")
 print("You've purchased the following items: ")

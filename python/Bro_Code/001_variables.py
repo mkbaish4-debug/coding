@@ -1,3 +1,4 @@
+# variables = A named container used to store data. 
 name = "Mayank Singh"
 age = 19
 height = 170

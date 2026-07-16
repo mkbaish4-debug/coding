@@ -4,11 +4,11 @@
 
 # groceries = [fruits, vegetables, food]
 groceries = [["apple", "pineapple", "banana", "mango"],
-            ["potato", "tomato", "onoin", "carrot"], 
+            ["potato", "tomato", "onoin", "carrot"],
             ["pizza", "ramen", "steak", "burger"]]
 # print(groceries)
 # for collection in groceries:
 #     for item in collection:
 #       print(item, end = " ")
 #     print()
-print(groceries[0][2])
+print(groceries[2][1])

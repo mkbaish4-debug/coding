@@ -22,7 +22,7 @@ capitals = {"usa": "washington d.c.",
 # print(capitals)
 # for key in capitals.keys():
 #     print(key)
-# for values in capitals.values():
-#     print(values)
+# for value in capitals.values():
+#     print(value)
 for key, value in capitals.items():
     print(key, value)

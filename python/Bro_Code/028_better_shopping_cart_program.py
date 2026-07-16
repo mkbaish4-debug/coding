@@ -15,12 +15,12 @@ while True:
                break
            else:
                 print("Invalid price!")
-            
+
 print("----Shoping Cart----")
 print("You've purchased the following items: ")
 
 for item in items:
-    print(f"৹{item}", end = "    ")
+    print(f"{items.index(item) + 1}. {item}", end = "    ")
 print()
 for price in prices:
     total += price

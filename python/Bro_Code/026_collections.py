@@ -23,10 +23,6 @@
 
 #            Set
 # fruits = {"apple", "mango", "pineapple", "coconut"}
-# print(len(fruits))
-# print(dir(fruits))
-# print(help(fruits))
-# print("pineapple" in fruits)
 # fruits.add("banana")
 # fruits.remove("apple")
 # fruits.pop()

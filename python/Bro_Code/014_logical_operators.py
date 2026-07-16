@@ -1,5 +1,5 @@
-# logical operators = evaluatemultiple conditions (or, and, not)
- 
+# logical operators = evaluate multiple conditions (or, and, not)
+
 temp = 24
 is_raining = False
 

@@ -9,7 +9,7 @@
 # happybirthday("Mayank", 19)
 
 # def displayinvoice(username, amount, due):
-#     print(f"Hello {username},")
+#     print(f"Hello {username}.")
 #     print(f"This is your invoice for ${amount}")
 #     print(f"This is due on {due}")
 
