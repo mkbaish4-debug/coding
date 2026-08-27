@@ -13,7 +13,7 @@
 #         self.for_sale  = for_sale
 
 # we can also import class
-from Car import Car
+from car import Car
 
 car1 = Car("Lamborghini", 2024, "Blue", False)
 car2 = Car("Ferrari", 2022, "red", True)

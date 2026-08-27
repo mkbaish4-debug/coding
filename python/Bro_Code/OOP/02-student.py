@@ -1,6 +1,6 @@
-# class variables = It is shared among all instances of a car
+# class variables = It is shared among all instances of a class
 #                   defined outside the constructor
-#                   allow you to shre data among all objects of a class
+#                   allow you to share data among all objects of a class
 
 class Student:
     class_year = 2025

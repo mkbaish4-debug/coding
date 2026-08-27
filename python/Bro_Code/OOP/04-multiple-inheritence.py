@@ -21,7 +21,7 @@ class Prey(Animal):
 
 class Predator(Animal):
     def hunt(self):
-        print(f"{self.name} is hunting")
+        print(f"{self.name} is hunting")    
 
 class Rabbit(Prey):
     pass

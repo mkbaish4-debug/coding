@@ -9,7 +9,7 @@
 #     print(total)
 
 
-# add(1,245,3,)
+# add(1,245,3)
 
 # def description(**kwargs):
 #     for value in kwargs.values():
@@ -17,5 +17,4 @@
 
 
 # description(race = "Brown", height = "5'8", gender = "Male")
-
 
