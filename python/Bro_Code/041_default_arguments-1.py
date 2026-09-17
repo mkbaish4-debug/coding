@@ -9,6 +9,6 @@ def new_price(price, discount=0, tax=0.1):
     return price + tax_amount - discount_amount
 
 print(new_price(100))
-# default arguments will be overridden given arguments
+# default arguments will be overridden by given arguments
 print(new_price(100, 0.1))
 print(new_price(100, 0.2, 0.1))

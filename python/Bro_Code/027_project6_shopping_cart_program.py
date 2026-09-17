@@ -14,7 +14,7 @@ while True:
             price = input(f"What is the price of {item} in $: ")
         price = float(price)
         prices.append(price)
-
+# LOGIC'S WRONG
 
 
 print("----Shoping Cart----")

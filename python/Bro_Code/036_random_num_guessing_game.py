@@ -18,7 +18,7 @@ while guess != randnum:
                 print("Too high! Try again...")
             else:
                 print("Correct! You guessed the number.")
-                print(f"You took {tries} tries to guess the number.")
+                print(f"You took {tries+1} tries to guess the number.")
                 print("-"*33)
         else:
             print("Number is out of range!")

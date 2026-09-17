@@ -20,6 +20,7 @@
 # fruits.reverse()
 # fruits.clear()
 # print(fruits.index("mango"))
+# print(fruits.count("mango"))
 
 #            Set
 # fruits = {"apple", "mango", "pineapple", "coconut"}

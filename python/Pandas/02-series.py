@@ -33,7 +33,7 @@ marks = {"Dhruv": 34, "Peter": 56, "Shahil": 78, "Sidhanshu": 98, "Shiva": 65.7,
 
 series = pd.Series(marks)
 
-# print(series)
+print(series)
 
 # loc & iloc
 

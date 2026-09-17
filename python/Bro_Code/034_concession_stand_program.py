@@ -15,7 +15,7 @@ print()
 
 order = input("What would you like to enjoy(q to quit): ")
 if order.lower() == "q":
-    print("Thank you for your order!")
+    print("See you again!")
     print("-" * 10 + "-" * 10)
 else:
     if menu.get(order) != None:

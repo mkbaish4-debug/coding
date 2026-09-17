@@ -4,7 +4,7 @@ import numpy as np
 # of diff shapes by virtually expanding the dimensions of the arrays
 # such that they match the larger array's shape
 
-# the condition are that either The dimensions are equal,
+# the conditions are that either The dimensions are equal,
 # or
 # One of the dimensions is 1.
 

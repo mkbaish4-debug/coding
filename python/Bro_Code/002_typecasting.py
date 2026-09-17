@@ -1,4 +1,4 @@
-#typecasting = changing between data types of variable; str(), int(), bool(), float()
+# typecasting = changing between data types of variable; str(), int(), bool(), float()
 name = "Mayank"
 age = 19
 student = True

@@ -1,7 +1,7 @@
 import numpy as np
 
 
-#Filtering = It refers to the data where only the
+# Filtering = It refers to the data where only the
 #  selected elements are represented out of an array
 # following a certain condition
 

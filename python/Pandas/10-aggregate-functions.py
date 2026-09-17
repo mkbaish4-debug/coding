@@ -20,6 +20,10 @@ df = pd.read_csv("04-pokemon-data.csv")
 # print(df["Height"].min())
 # print(df["Height"].max())
 # print(df["Type2"].count())
+# print(df.head(7))
+# print(df.tail())
+# print(df.describe())
+
 
 group = df.groupby("Type1")
 
